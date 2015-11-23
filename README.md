@@ -4,7 +4,7 @@ Choose from various CSS Overlay effects to apply to a image contained within the
 
 Based on simple image widget that makes it a breeze to add images to sidebars in WordPress.
 
-__Based on: __ [Simple Image Widget](https://github.com/cedaro/simple-image-widget)
+__Based on:__ [Simple Image Widget](https://github.com/cedaro/simple-image-widget)
 __Contributors:__ [Cedaro](https://github.com/cedaro), [Brady Vercher](https://github.com/bradyvercher)  
 __Requires:__ 4.0  
 __Tested up to:__ 4.4  
